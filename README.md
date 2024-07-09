@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="167" src="https://thermite.com.au/logoSymbolVar2.svg"  />
+<img align="left" height="167" src="https://thermite.com.au/logoSymbol.svg"  />
 
 ###
 
